@@ -164,6 +164,7 @@
 }
 .product img{
     margin: 0px 3px;
+        width: 97%;
 }
 .imgp{
       display: flex;
