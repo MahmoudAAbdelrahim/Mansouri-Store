@@ -164,8 +164,19 @@
 }
 .product img{
     margin: 0px 3px;
-        width: 97%;
 }
+@media (min-width:50px){
+ .product img{
+    margin: 0px 3px;
+    width: 97%;
+}
+    }
+@media (min-width:680px){
+.product img{
+    margin: 0px 3px;
+    width: 97%;
+}
+    }
 .imgp{
       display: flex;
       flex-wrap: wrap;
