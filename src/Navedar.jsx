@@ -33,8 +33,8 @@ const Navedar = () => {
               >
                 <Offcanvas.Header closeButton className='OffcanvasBody'>
                   <Offcanvas.Title  id={` offcanvasNavbarLabel-expand-${expand}`}>
-                    Offcanvas
-                  </Offcanvas.Title>
+    <Navbar.Brand href="#" id="logo">Al Mansouri
+              </Navbar.Brand>                  </Offcanvas.Title>
                 </Offcanvas.Header>
                 <Offcanvas.Body className="OffcanvasBody">
                   <Nav className="justify-content-center flex-grow-1 pe-3">
