@@ -162,6 +162,7 @@
     font-size: 24px;
     margin: 0px 2px;
 }
+
 .product img{
     margin: 0px 3px;
 }
@@ -171,10 +172,14 @@
     width: 97%;
 }
     }
-@media (min-width:680px){
+@media (min-width:500px){
 .product img{
     margin: 0px 3px;
     width: 97%;
+}
+    @media (min-width:2200px){
+ .product img{
+    margin: 0px 3px;
 }
     }
 .imgp{
