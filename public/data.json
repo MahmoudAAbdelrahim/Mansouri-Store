@@ -1,0 +1,30 @@
+{
+    "prodect": [
+      {
+        "id": 1,
+        "name": "مَا لَا نَبُوحُ بِهِ",
+        "price": "90ج.م",
+        "image": "Imges/shopping (1).webp"
+      },
+      {
+        "id": 2,
+        "name": "رَسَائِلٌ مِنْ النَّبِيِّ",
+        "price": "130ج.م",
+        "image": "Imges/shopping (2).webp"
+      },
+      {
+        "id": 3,
+        "name": "مَا لَا نَبُوحُ بِهِ",
+        "price": "90ج.م",
+        "image": "Imges/in.jpg"
+      },
+      {
+        "id": 4,
+        "name": "رَسَائِلٌ مِنْ النَّبِيِّ",
+        "price": "130ج.م",
+        "image": "Imges/0001.png"
+      }
+
+    ]
+  }
+  
