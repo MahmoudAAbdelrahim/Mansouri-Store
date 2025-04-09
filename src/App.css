@@ -165,18 +165,22 @@
 
 
   
-@media (min-width:500px){
-.product img{
-  margin: 0px 3px;
-  width: 97%;
-}
-}
-  @media (min-width:501px){
-.product img{
-  margin: 0px 3px;
-    width: auto;
-}
+/* الحجم للموبايل */
+@media (max-width: 768px) {
+  .product img{
+    margin: 0px 3px;
+    width: 97%;
   }
+}
+
+/* الحجم لللاب توب */
+@media (min-width: 769px) {
+  .product img{
+    margin: 0px 3px;
+    width: auto;
+  }
+}
+  
 .imgp{
     display: flex;
     flex-wrap: wrap;
