@@ -163,8 +163,6 @@
   margin: 0px 2px;
 }
 
-
-  
 /* الحجم للموبايل */
 @media (max-width: 768px) {
   .product img{
@@ -181,6 +179,7 @@
   }
 }
   
+
 .imgp{
     display: flex;
     flex-wrap: wrap;
